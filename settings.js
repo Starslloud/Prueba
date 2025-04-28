@@ -20,6 +20,19 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
+global.libreria = 'Baileys'
+global.baileys = '@whiskeysockets/baileys' 
+global.languaje = 'Español'
+global.vs = '6.0.0'
+global.vsJB = '5.0'
+global.nameqr = 'Anya Forger'
+global.namebot = 'Anya Forger'
+global.sessions = 'Sessions'
+global.jadi = 'JadiBots' 
+global.AnyaJadibts = true
+
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
+
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author": "Irokz Dal ダーク",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
